@@ -1,2 +1,3 @@
 # haskellLabSheets
-Solutions to haskell lab sheets
+
+Solutions to the UCL first year haskell lab sheets
